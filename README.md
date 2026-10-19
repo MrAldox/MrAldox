@@ -6,7 +6,7 @@
 
   <p>
     Apasionado por construir soluciones de software eficientes, escalables y seguras.<br>
-    Experiencia en desarrollo backend con <b>Python</b> y <b>PHP</b>, APIs asíncronas con <b>FastAPI</b>, bases de datos relacionales (<b>MySQL</b> / <b>MariaDB</b> / <b>SQLite</b>), interfaces web modernas y automatización de infraestructura en entornos corporativos de <b>Active Directory</b>.
+    Experiencia en desarrollo backend con <b>Python</b> y <b>C#</b>, APIs asíncronas con <b>FastAPI</b>, bases de datos relacionales (<b>MySQL</b> / <b>MariaDB</b> / <b>SQLite</b>), interfaces web modernas y automatización de infraestructura en entornos corporativos de <b>Active Directory</b>.
   </p>
 
   <p>
